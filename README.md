@@ -1,6 +1,3 @@
-# tjake459.github.io
-Jake Torres ePortfolio
-
 ---
 layout: default
 title: Home
