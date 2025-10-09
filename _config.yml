@@ -1,0 +1,6 @@
+title: Jake Torres — CS-499 ePortfolio
+description: Capstone ePortfolio with professional self-assessment, artifacts, and code review video.
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
