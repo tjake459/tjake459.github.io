@@ -12,7 +12,7 @@ The artifact I selected is my **mobile event tracker application** from **CS 360
 I chose this artifact because it was a solid starting point but not fully complete, which made it a good candidate for enhancements. It already showed my ability to design and build working applications, but by improving it, I can also show that I can **refactor and restructure code**, **apply best practices**, and **prepare an application for modern deployment**.
 
 ## Downloads
-- **Project (zip):** [Download Artifact 1](../downloads/artifact-1/Artifact-1.zip)
-- **Narrative (.docx):** [Download Narrative](../downloads/artifact-1/Artifact-1-Narrative.docx)
+- **Project (zip):** [Download Artifact 1](../downloads/artifact-1/Torres_J_CS360_Proj2_2EventTracker_PreUpdates.zip)
+- **Narrative (.docx):** [Download Narrative](../downloads/artifact-1/CS_499_ART_1_details_plans.docx)
 
 [Back to Home](/)
