@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Artifact 1 — Mobile Event Tracker (CS 360)
+title: Artifact 1 — Mobile Event Tracker (CS 360) Pre-Updates
 ---
 
-# Artifact 1 — Mobile Event Tracker (CS 360)
+# Artifact 1 — Mobile Event Tracker (CS 360) Pre-Updates
 
 ## Artifact Description
 The artifact I selected is my **mobile event tracker application** from **CS 360 (Mobile Architecture and Programming)**. It was originally created in **Android Studio** using **Java** and **XML**. The app lets a user sign up or log in, choose **SMS notification permission**, and then view an event page where events can be added, updated, or deleted. The application uses two **SQLite databases**: one for users and one for events.
