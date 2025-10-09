@@ -1,4 +1,7 @@
-Jake Torres E-Portfolio
+---
+layout: default
+title: default
+---
 
 # Professional Self-Assessment
 > (Currently being developed)
