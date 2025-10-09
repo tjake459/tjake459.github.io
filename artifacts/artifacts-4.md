@@ -3,7 +3,7 @@ layout: default
 title: Artifact 4 — Database Updates
 ---
 
-# Artifact 2 — Database Updates
+# Artifact 4 — Database Updates
 
 ## Artifact Description
 in progress
@@ -15,7 +15,7 @@ in progress
 in progress
 
 ## Downloads
-- **Project (zip):** [Download Artifact 2](../downloads/artifact-2/Artifact-2.zip)
-- **Narrative (.docx):** [Download Narrative](../downloads/artifact-2/Artifact-2-Narrative.docx)
+- **Project (zip):** [Download Artifact 4](../downloads/artifact-4/Artifact-4.zip)
+- **Narrative (.docx):** [Download Narrative](../downloads/artifact-4/Artifact-4-Narrative.docx)
 
 [Back to Home](/)
