@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
----
+
 
 # Professional Self-Assessment
 > (Currently being developed)
