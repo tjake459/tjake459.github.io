@@ -17,7 +17,7 @@ Through this enhancement, I gained more experience with JavaScript, Express, and
 One challenge I faced was when creating the main folders for the Node.js app. At first, I was unsure of the correct commands to scaffold the structure, but by practicing with the terminal and using Express Generator, I learned how to build the setup properly. This gave me more confidence in working across both Java and JavaScript ecosystems.
 
 ## Downloads
-- **Project (zip):** [Download Artifact 2](../downloads/artifact-2/)
-- **Narrative (.docx):** [Download Narrative](../downloads/artifact-2/CS%20499_ART_1_details_plans.docx)
+- **Project (zip):** [Download Artifact 2](../downloads/artifact-2/Torres_J_CS499_ET_Capstone_VSC.zip)
+- **Narrative (.docx):** [Download Narrative](../downloads/artifact-2/Torres_J_CS499_3_2.docx)
 
 [Back to Home](/)
