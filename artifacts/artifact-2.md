@@ -3,7 +3,7 @@ layout: default
 title: Artifact 2 — Software Design and Engineering Updates
 ---
 
-# Artifact 2 — Software Design and Engineering Updates
+# Artifact 2 — Software Design and Engineering Updates 
 
 ## Artifact Description
 This artifact is the same event tracking app that was created in android studio, but re-created in visual studio code as a web application.It utilizes js and node.js, express, using a MVC approac with HBS and JSON
