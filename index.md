@@ -74,7 +74,7 @@ title: Jake Torres — ePortfolio
       I build reliable, secure apps and love shipping real products.
     </p>
     <p>
-      <a class="cta" href="/portfolio/)">Enter ePortfolio</a>
+      <a class="cta" href="/portfolio/">Enter ePortfolio</a>
       <a class="cta secondary" href="https://www.linkedin.com/in/jake-a-torres">LinkedIn</a>
       <a class="cta secondary" href="https://github.com/tjake459">GitHub</a>
       <a class="cta secondary" href="mailto:tjake459@gmail.com">Contact</a>
