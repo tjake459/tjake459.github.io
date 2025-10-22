@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jake Torres — ePortfolio
-permalink: /portfolio
+permalink: /portfolio/
 ---
 
 # Professional Self-Assessment
