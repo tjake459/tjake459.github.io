@@ -4,3 +4,7 @@ theme: minima
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+
+url: "https://tjake459.github.io"
+baseurl: ""          
+permalink: pretty    
