@@ -4,7 +4,6 @@ title: Jake Torres — ePortfolio
 ---
 
 <style>
-/* simple, page-scoped styles */
 .hero {
   position: relative;
   min-height: 80vh;
@@ -76,6 +75,8 @@ title: Jake Torres — ePortfolio
     </p>
     <p>
       <a class="cta" href="/README.md)">Enter ePortfolio</a>
+      <a class="cta secondary" href="https://www.linkedin.com/in/jake-a-torres">LinkedIn</a>
+      <a class="cta secondary" href="https://github.com/tjake459">GitHub</a>
       <a class="cta secondary" href="mailto:tjake459@gmail.com">Contact</a>
     </p>
 
