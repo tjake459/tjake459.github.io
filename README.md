@@ -1,6 +1,7 @@
+---
 layout: default
-title: default
-permalink: /README/
+title: Jake Torres — ePortfolio
+permalink: /portfolio/
 ---
 
 <style>
