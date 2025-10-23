@@ -1,5 +1,6 @@
 layout: default
 title: default
+permalink: /README/
 ---
 
 <style>
