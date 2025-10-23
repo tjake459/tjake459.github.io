@@ -3,6 +3,14 @@ layout: default
 title: Artifact 4 — Database Updates
 ---
 
+<style>
+:root { color-scheme: dark; }
+body { background:#7a5c00; color:#f8fafc; }     /* dark yellow */
+a { color:#fde68a; }                           
+a:hover { color:#fff7cc; }
+hr { border-color: rgba(255,255,255,0.15); }
+</style>
+
 # Artifact 4 — Database Updates
 
 ## Enhancements / Improvements
