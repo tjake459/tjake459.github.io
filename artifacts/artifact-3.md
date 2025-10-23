@@ -23,6 +23,43 @@ hr { border-color: #1f364f; }
 .page-content a:focus {
   color:#ffffff;
 }
+
+/* ==== Fix Minima mobile dropdown contrast on dark pages ==== */
+
+/* Make the header dark on all widths */
+.site-header { background:#0b1220 !important; border:0; }
+
+/* Desktop links */
+.site-title, .site-title:visited { color:#fff !important; }
+.site-nav .page-link { color:#e5e7eb !important; }
+.site-nav .page-link:hover, .site-nav .page-link:focus {
+  color:#ffffff !important; text-decoration: underline;
+}
+
+/* Mobile dropdown (Minima uses .trigger as the menu panel) */
+@media (max-width: 600px) {
+  .site-nav .trigger {
+    background:#0b1220 !important;              /* dark panel */
+    border: 1px solid rgba(255,255,255,0.08);   /* subtle border */
+    box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+  }
+  .site-nav .page-link {
+    color:#e5e7eb !important;                   /* readable links */
+    padding: 0.6rem 0.8rem;
+    display: block;
+  }
+  .site-nav .page-link:hover, .site-nav .page-link:focus {
+    color:#ffffff !important;
+    background: rgba(255,255,255,0.06);         /* hover row highlight */
+    text-decoration: none;
+  }
+  /* Hamburger icon color */
+  .site-nav label[for="nav-trigger"] {
+    color:#e5e7eb !important;
+  }
+  /* Dropdown caret/triangle (if any) */
+  .site-nav .trigger::before { display:none; }
+}
 </style>
 
 # Artifact 3 — Algorithms and Data Structures Updates
