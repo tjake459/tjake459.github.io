@@ -4,10 +4,17 @@ title: Artifact 3 — Algorithms and Data Structures Updates
 ---
 
 <style>
-:root { color-scheme: dark; }               /* better default link colors on dark bg */
+:root { color-scheme: dark; }               
 body { background:#0b2a4a; color:#e5e7eb; } /* dark blue + light text */
-a { color:#93c5fd; }                         /* readable links */
-hr { border-color: #1f364f; }                /* subtle dividers on dark bg */
+a { color:#93c5fd; }                         
+hr { border-color: #1f364f; }                
+
+.site-header { background:rgba(11,18,32,0.98); border:0; }
+.site-title, .site-title:visited { color:#ffffff !important; }
+.site-nav .page-link { color:#e5e7eb !important; }
+.site-nav .page-link:hover, .site-nav .page-link:focus {
+  color:#ffffff !important; text-decoration: underline;
+}
 </style>
 
 # Artifact 3 — Algorithms and Data Structures Updates
