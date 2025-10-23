@@ -9,8 +9,8 @@ title: Artifact 2 — Software Design and Engineering Updates
 This artifact is the same event tracking app that was created in android studio, but re-created in visual studio code as a web application.It utilizes js and node.js, express, using a MVC approac with HBS and JSON
 
 ## Enhancements / Improvements
-•	Modern development: I recreated the app in Visual Studio Code as a Node.js/Express project using MVC architecture with Handlebars templates. This shows proper separation of concerns and aligns with industry best practices.
-•	Preparation for future work: I scaffolded the project for MongoDB integration, which will be addressed more fully in the Databases milestone.
+-	Modern development: I recreated the app in Visual Studio Code as a Node.js/Express project using MVC architecture with Handlebars templates. This shows proper separation of concerns and aligns with industry best practices.
+-	Preparation for future work: I scaffolded the project for MongoDB integration, which will be addressed more fully in the Databases milestone.
 
 ## Learning & Reflection
 Through this enhancement, I gained more experience with JavaScript, Express, and Handlebars, which expanded my skill set beyond Android development. I learned how to set up MVC folder structures, manage routes and controllers, and prepare a project for database migration.
