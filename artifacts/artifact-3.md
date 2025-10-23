@@ -3,6 +3,14 @@ layout: default
 title: Artifact 3 — Algorithms and Data Structures Updates
 ---
 
+
+<style>
+:root { color-scheme: dark; }
+body { background:#4c1d95; color:#f3f4f6; }   /* dark purple */
+a { color:#fca5a5; }
+hr { border-color:#5b1515; }
+</style>
+
 # Artifact 3 — Algorithms and Data Structures Updates
 
 ## Enhancements / Improvements
