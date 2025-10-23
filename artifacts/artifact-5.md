@@ -30,7 +30,7 @@ hr { border-color:#134e33; }
 </style>
 
 <div class="wrapper">
-  <h1>Artifact 5 — Demo Video</h1>
+  <h1>Artifact 5/h1>
 
   <div class="player">
     <video
