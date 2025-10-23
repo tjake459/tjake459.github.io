@@ -11,6 +11,4 @@ a { color:#60a5fa; }
 hr { border-color:#1f2937; }
 </style>
 
-# Professional Self-Assessment
-
 {% include_relative README.md %}
