@@ -14,6 +14,13 @@ h1,h2,h3 { color:#f8fafc; }
 .site-nav .page-link:hover, .site-nav .page-link:focus {
   color:#ffffff !important; text-decoration: underline;
 }
+  .page-content a { /* lighter on hover just in main content area */
+  color:#93c5fd;
+}
+.page-content a:hover,
+.page-content a:focus {
+  color:#ffffff;
+}
   
 .hero {
   position: relative;
