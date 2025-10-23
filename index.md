@@ -83,11 +83,11 @@ title: Jake Torres — ePortfolio
     <div class="grid">
       <div class="card">
         <h3>What I Do</h3>
-        <p>Node/Express, MongoDB, React Native/Android, and secure APIs (bcrypt + JWT).</p>
+        <p>Node/Express, MongoDB, React Native/Android, and secure APIs (bcrypt + JWT). + more </p>
       </div>
       <div class="card">
         <h3>Recent Work</h3>
-        <p>Event Tracker app, and a full-stack MERN capstone.</p>
+        <p>Event Tracker app and a full-stack MERN capstone.</p>
       </div>
       <div class="card">
         <h3>Next Step</h3>
