@@ -5,16 +5,23 @@ title: Artifact 4 — Database Updates
 
 <style>
 :root { color-scheme: dark; }
-body { background:#7a5c00; color:#f8fafc; }     /* dark yellow */
-a { color:#fde68a; }                           
-a:hover { color:#fff7cc; }
-hr { border-color: rgba(255,255,255,0.15); }
+body { background:#0a2f1f; color:#e5e7eb; } /* dark green */
+a { color:#86efac; }
+hr { border-color:#134e33; }
 
 .site-header { background:rgba(11,18,32,0.98); border:0; }
 .site-title, .site-title:visited { color:#ffffff !important; }
 .site-nav .page-link { color:#e5e7eb !important; }
 .site-nav .page-link:hover, .site-nav .page-link:focus {
   color:#ffffff !important; text-decoration: underline;
+}
+
+.page-content a { /* lighter on hover just in main content area */
+  color:#93c5fd;
+}
+.page-content a:hover,
+.page-content a:focus {
+  color:#ffffff;
 }
 </style>
 
