@@ -3,12 +3,11 @@ layout: default
 title: Artifact 3 — Algorithms and Data Structures Updates
 ---
 
-
 <style>
-:root { color-scheme: dark; }
-body { background:#4c1d95; color:#f3f4f6; }   /* dark purple */
-a { color:#c4b5fd; }                          
-hr { border-color: rgba(255,255,255,0.08); }
+:root { color-scheme: dark; }               /* better default link colors on dark bg */
+body { background:#0b2a4a; color:#e5e7eb; } /* dark blue + light text */
+a { color:#93c5fd; }                         /* readable links */
+hr { border-color: #1f364f; }                /* subtle dividers on dark bg */
 </style>
 
 # Artifact 3 — Algorithms and Data Structures Updates
