@@ -48,4 +48,3 @@ Use the links above or the site header to view the video and artifact pages. Eac
 - a brief description
 - enhancement summary and learning reflection
 - **download links** to the zipped project and the narrative (.docx)
-
