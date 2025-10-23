@@ -7,8 +7,8 @@ title: Artifact 3 — Algorithms and Data Structures Updates
 <style>
 :root { color-scheme: dark; }
 body { background:#4c1d95; color:#f3f4f6; }   /* dark purple */
-a { color:#fca5a5; }
-hr { border-color:#5b1515; }
+a { color:#c4b5fd; }                          
+hr { border-color: rgba(255,255,255,0.08); }
 </style>
 
 # Artifact 3 — Algorithms and Data Structures Updates
