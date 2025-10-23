@@ -6,9 +6,21 @@ permalink: /portfolio/
 
 <style>
 :root { color-scheme: dark; }
-body { background:#1e293b; color:#0b3b2e; }  /* forest teal */
-a { color:#86efac; }
-hr { border-color:#134e33; }
+body { background:#1e293b; color:#e5e7eb; }   /* slate blue + light text */
+h1,h2,h3 { color:#f8fafc; }
+a { color:#93c5fd; }
+a:hover, a:focus { color:#bfdbfe; }
+
+/* Header/Nav white on dark bg */
+.site-header { background:#0b1220; border:0; }
+.site-title, .site-title:visited { color:#ffffff !important; }
+.site-nav .page-link { color:#e5e7eb !important; }
+.site-nav .page-link:hover, .site-nav .page-link:focus {
+  color:#ffffff !important; text-decoration: underline;
+}
+
+/* dividers */
+hr { border-color: rgba(255,255,255,0.12); }
 </style>
 
 # Professional Self-Assessment
