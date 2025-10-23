@@ -138,11 +138,11 @@ h1,h2,h3 { color:#f8fafc; }
     <div class="grid">
       <div class="card">
         <h3>What I Do</h3>
-        <p>Node/Express, MongoDB, React Native/Android, and secure APIs (bcrypt + JWT). + more </p>
+        <p>Node/Express, MongoDB, React Native/Android, secure APIs (bcrypt + JWT). + more </p>
       </div>
       <div class="card">
         <h3>Recent Work</h3>
-        <p>Event Tracker app and a full-stack MERN capstone.</p>
+        <p>Full-stack MERN Event Tracker — Mobile & Web Capstone.</p>
       </div>
       <div class="card">
         <h3>Next Step</h3>
