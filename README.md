@@ -6,9 +6,9 @@ permalink: /portfolio/
 
 <style>
 :root { color-scheme: dark; }
-body { background:#111827; color:#e5e7eb; } /* dark gray */
-a { color:#60a5fa; }
-hr { border-color:#1f2937; }
+body { background:#4c1d95; color:#f3f4f6; }   /* dark purple + light text */
+a { color:#c4b5fd; }                           /* soft lavender links */
+hr { border-color: rgba(255,255,255,0.08); }
 </style>
 
 # Professional Self-Assessment
