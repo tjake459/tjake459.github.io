@@ -6,8 +6,8 @@ title: Artifact 2 — Software Design and Engineering Updates
 <style>
 :root { color-scheme: dark; }
 body { background:#1e293b; color:#1a1446; }  /* Midnight Indigo */
-a { color:#93c5fd; }
-hr { border-color: rgba(255,255,255,0.12); }
+a { color:#86efac; }
+hr { border-color:#134e33; }
 </style>
 
 # Artifact 2 — Software Design and Engineering Updates 
