@@ -15,6 +15,14 @@ hr { border-color:#134e33; }
 .site-nav .page-link:hover, .site-nav .page-link:focus {
   color:#ffffff !important; text-decoration: underline;
 }
+
+.page-content a { /* lighter on hover just in main content area */
+  color:#93c5fd;
+}
+.page-content a:hover,
+.page-content a:focus {
+  color:#ffffff;
+}
 </style>
 
 # Artifact 1 — Mobile Event Tracker (CS 360) Pre-Updates
