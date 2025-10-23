@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jake Torres — ePortfolio
+title: Home
 ---
 
 <style>
