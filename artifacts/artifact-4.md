@@ -21,11 +21,11 @@ title: Artifact 4 — Database Updates
 - Mobile can now add/update/delete events reliably
 
 ## Learning & Reflection
-Enhancing this artifact taught me how much work goes into connecting front end and back end—especially when a mobile app and a web app share the same server. I learned to configure APIs, handle different data formats (HTML vs. JSON), and use Retrofit to simplify Android calls. A major challenge was returning JSON for mobile while keeping HTML for web, which required restructuring routes and logic in VS Code. This deepened my understanding of API design, HTTP, and data serialization. I strengthened full-stack skills, database integration, and debugging. I also saw how small architectural choices—like response formats or repository structure—impact performance and maintainability. Along the way I implemented JWT with SALT/HASH, built a TokenStore and app initializer, fixed Retrofit/JWT issues, moved to Passport and cookie-based userId, updated Android to use JWT (not query), and added delete on mobile.
+Enhancing this artifact taught me how much work goes into connecting front end and back end, especially when a mobile app and a web app share the same server. I learned to configure APIs, handle different data formats (HTML vs. JSON), and use Retrofit to simplify Android calls. A major challenge was returning JSON for mobile while keeping HTML for web, which required restructuring routes and logic in VS Code. This deepened my understanding of API design, HTTP, and data serialization. I strengthened full-stack skills, database integration, and debugging. I also saw how small architectural choices, like response formats or repository structure, impact performance and maintainability. Along the way I implemented JWT with SALT/HASH, built a TokenStore and app initializer, fixed Retrofit/JWT issues, moved to Passport and cookie-based userId, updated Android to use JWT (not query), and added delete on mobile.
 
 ## Downloads
-- ** VS Project (zip):** [Download Artifact 4 VS code](../downloads/artifact-4/Torres_J_CS499_EventTracker_Capstone_Fin.zip)
-- ** AS Project (zip):** [Download Artifact 4 Android Studio](../downloads/artifact-4/Torres_J_CS499_EventTracker_Capstone_AS_Fin.zip)
+- **VS Project (zip):** [Download Artifact 4 VS code](../downloads/artifact-4/Torres_J_CS499_EventTracker_Capstone_Fin.zip)
+- **AS Project (zip):** [Download Artifact 4 Android Studio](../downloads/artifact-4/Torres_J_CS499_EventTracker_Capstone_AS_Fin.zip)
 - **Narrative (.docx):** [Download Narrative](../downloads/artifact-4/Torres_J_CS499_5_FIN.docx)
 
 [Back to Home](/)
