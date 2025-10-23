@@ -3,6 +3,13 @@ layout: default
 title: Artifact 2 — Software Design and Engineering Updates
 ---
 
+<style>
+:root { color-scheme: dark; }
+body { background:#3a0d0d; color:#f3f4f6; }  /* dark red */
+a { color:#fca5a5; }
+hr { border-color:#5b1515; }
+</style>
+
 # Artifact 2 — Software Design and Engineering Updates 
 
 ## Artifact Description
