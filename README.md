@@ -3,6 +3,14 @@ layout: default
 title: default
 ---
 
+<style>
+/* Page-scoped styles: only affect this page */
+:root { color-scheme: dark; }               /* better default link colors on dark bg */
+body { background:#0b2a4a; color:#e5e7eb; } /* dark blue + light text */
+a { color:#93c5fd; }                         /* readable links */
+hr { border-color: #1f364f; }                /* subtle dividers on dark bg */
+</style>
+
 # Professional Self-Assessment
 Over the past few years I have grown from a bootcamp student learning Java, POJOs, and DynamoDB setup, into a computer science graduate from Southern New Hampshire University with practical, portfolio-ready experience. Building my ePortfolio helped me showcase strengths I can bring to a team right away. I turned coursework into working software, documented decisions, and published everything on GitHub and GitHub Pages so employers can quickly verify my skills. These experiences shaped my goals and values around writing clear, maintainable code, validating requirements with stakeholders, and delivering secure, reliable systems that are easy to extend.
 My capstone ties together full-stack web and mobile development. I implemented a backend using Node and Express, a frontend using JavaScript, HTML, and Handlebars, and a single MongoDB/Mongoose database for users and events that powers both web and Android. I applied security measures directly in the application by using password hash/salt and JWT for authentication, reflecting my commitment to building production-minded features. Earlier work in CS 305 Software Security strengthened this mindset: I ran OWASP Dependency-Check (Maven), separated false positives from real risks, proposed mitigation strategies, and produced clear security documentation and vulnerability reports. Together these efforts show I can both build features and protect them.
