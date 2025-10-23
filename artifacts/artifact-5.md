@@ -1,7 +1,4 @@
----
-layout: default
-title: DO NOT OPEN
----
+
 
 <style>
 :root { color-scheme: dark; }
