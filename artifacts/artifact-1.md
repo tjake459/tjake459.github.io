@@ -3,6 +3,13 @@ layout: default
 title: Artifact 1 — Mobile Event Tracker (CS 360) Pre-Updates
 ---
 
+<style>
+:root { color-scheme: dark; }
+body { background:#0a2f1f; color:#e5e7eb; } /* dark green */
+a { color:#86efac; }
+hr { border-color:#134e33; }
+</style>
+
 # Artifact 1 — Mobile Event Tracker (CS 360) Pre-Updates
 
 ## Artifact Description
