@@ -8,6 +8,13 @@ title: Artifact 1 — Mobile Event Tracker (CS 360) Pre-Updates
 body { background:#0a2f1f; color:#e5e7eb; } /* dark green */
 a { color:#86efac; }
 hr { border-color:#134e33; }
+
+.site-header { background:rgba(11,18,32,0.98); border:0; }
+.site-title, .site-title:visited { color:#ffffff !important; }
+.site-nav .page-link { color:#e5e7eb !important; }
+.site-nav .page-link:hover, .site-nav .page-link:focus {
+  color:#ffffff !important; text-decoration: underline;
+}
 </style>
 
 # Artifact 1 — Mobile Event Tracker (CS 360) Pre-Updates
