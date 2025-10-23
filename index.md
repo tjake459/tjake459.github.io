@@ -4,6 +4,17 @@ title: Home
 ---
 
 <style>
+:root { color-scheme: dark; }
+body { background:#0b1220; color:#e5e7eb; }   /* dark navy base */
+h1,h2,h3 { color:#f8fafc; }
+
+.site-header { background:rgba(11,18,32,0.98); border:0; }
+.site-title, .site-title:visited { color:#ffffff !important; }
+.site-nav .page-link { color:#e5e7eb !important; }
+.site-nav .page-link:hover, .site-nav .page-link:focus {
+  color:#ffffff !important; text-decoration: underline;
+}
+  
 .hero {
   position: relative;
   min-height: 80vh;
