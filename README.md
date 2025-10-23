@@ -4,11 +4,10 @@ title: default
 ---
 
 <style>
-/* Page-scoped styles: only affect this page */
-:root { color-scheme: dark; }               /* better default link colors on dark bg */
-body { background:#0b2a4a; color:#e5e7eb; } /* dark blue + light text */
-a { color:#93c5fd; }                         /* readable links */
-hr { border-color: #1f364f; }                /* subtle dividers on dark bg */
+:root { color-scheme: dark; }
+body { background:#111827; color:#e5e7eb; } /* dark gray */
+a { color:#60a5fa; }
+hr { border-color:#1f2937; }
 </style>
 
 # Professional Self-Assessment
