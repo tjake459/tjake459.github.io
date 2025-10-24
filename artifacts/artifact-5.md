@@ -49,11 +49,6 @@ hr { border-color:#134e33; }
     </video>
   </div>
 
-  <p style="margin-top:1rem">
-    If autoplay doesn’t start, click play (some browsers require interaction).
-    <a href="/assets/media/rick-roll-video-meme-template-video-1da252ec.mp4" download>Download the MP4</a>.
-  </p>
-
   <p><a href="/">Back to Home</a></p>
 </div>
 
