@@ -6,7 +6,7 @@ nav_exclude: true
 
 <style>
 :root { color-scheme: dark; }
-body { background:#0a2f1f; color:#e5e7eb; }  /* dark green */
+body { background:#000; color:#e5e7eb; }  /* dark green */
 a { color:#86efac; }
 hr { border-color:#134e33; }
 
