@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Artifact 5 — Demo Video
+permalink: /artifacts/artifact-5/
 nav_exclude: true
 ---
 
