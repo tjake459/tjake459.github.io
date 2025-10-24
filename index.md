@@ -165,9 +165,8 @@ h1,h2,h3 { color:#f8fafc; }
         <h3>Next Step</h3>
         <p>Continuing my education at UT Austin for a masters in Computer Science.</p>
       </div>
+      <p><a class="cta red xs" href="/artifacts/artifact-5/">DO NOT OPEN</a></p>
     </div>
-
-    <p><a class="cta red xs" href="/artifacts/artifact-5/">DO NOT OPEN</a></p>
   </div>
 </div>
 
