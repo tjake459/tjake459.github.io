@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Artifact 5 — Demo Video
-permalink: /artifacts/DONOTOPEN/
 nav_exclude: true
 ---
 
