@@ -120,9 +120,9 @@ h1,h2,h3 { color:#f8fafc; }
 }
 
 .cta.xs { 
-  font-size: 0.78rem;         /* ~22% smaller */
-  padding: 0.4rem 0.75rem; 
-  box-shadow: 0 4px 12px rgba(37,99,235,0.24);
+  font-size: 0.5rem;          /* smaller button */
+  padding: 0.375rem 0.625rem; 
+  box-shadow: 0 3px 9px rgba(37,99,235,0.22);
 }
 .cta.red {
   background: #dc2626;          /* red-600 */
@@ -150,7 +150,6 @@ h1,h2,h3 { color:#f8fafc; }
       <a class="cta secondary" href="https://www.linkedin.com/in/jake-a-torres">LinkedIn</a>
       <a class="cta secondary" href="https://github.com/tjake459">GitHub</a>
       <a class="cta secondary" href="mailto:tjake459@gmail.com">Contact</a>
-      <a class="cta red xs" href="/artifacts/artifact-5/">DO NOT OPEN</a>
     </p>
 
     <div class="grid">
@@ -168,6 +167,7 @@ h1,h2,h3 { color:#f8fafc; }
       </div>
     </div>
   </div>
+  <p><a class="cta red xs" href="/artifacts/artifact-5/">DO NOT OPEN</a></p>
 </div>
 
 ---
