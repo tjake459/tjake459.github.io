@@ -144,7 +144,7 @@ h1,h2,h3 { color:#f8fafc; }
       <a class="cta secondary" href="https://www.linkedin.com/in/jake-a-torres">LinkedIn</a>
       <a class="cta secondary" href="https://github.com/tjake459">GitHub</a>
       <a class="cta secondary" href="mailto:tjake459@gmail.com">Contact</a>
-      <a class="cta secondary sm" href="artifacts/DONOTOPEN">DO NOT OPEN</a>
+      <a class="cta secondary sm" href="artifacts/artifact-5.md">DO NOT OPEN</a>
     </p>
 
     <div class="grid">
