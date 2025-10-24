@@ -118,6 +118,17 @@ h1,h2,h3 { color:#f8fafc; }
   /* Dropdown caret/triangle (if any) */
   .site-nav .trigger::before { display:none; }
 }
+
+.cta.sm { 
+  font-size: 0.85rem;         /* ~15% smaller */
+  padding: 0.5rem 0.9rem; 
+  box-shadow: 0 6px 16px rgba(37,99,235,0.28);
+}
+.cta.xs { 
+  font-size: 0.78rem;         /* ~22% smaller */
+  padding: 0.4rem 0.75rem; 
+  box-shadow: 0 4px 12px rgba(37,99,235,0.24);
+}
 </style>
 
 <div class="hero">
@@ -133,6 +144,7 @@ h1,h2,h3 { color:#f8fafc; }
       <a class="cta secondary" href="https://www.linkedin.com/in/jake-a-torres">LinkedIn</a>
       <a class="cta secondary" href="https://github.com/tjake459">GitHub</a>
       <a class="cta secondary" href="mailto:tjake459@gmail.com">Contact</a>
+      <a class="cta secondary sm" href="/DONOTOPEN/">DO NOT OPEN</a>
     </p>
 
     <div class="grid">
